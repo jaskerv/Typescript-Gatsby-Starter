@@ -3,7 +3,7 @@
   "private": true,
   "description": "TODO",
   "version": "0.1.0",
-  "author": "Jono Yan <mathews.kyle@gmail.com>",
+  "author": "Jono Yan <jono2496@gmail.com>",
   "dependencies": {
     "gatsby": "^3.0.3",
     "gatsby-plugin-gatsby-cloud": "^2.0.0",
@@ -50,9 +50,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/Jaskerv/Typescript-Gatsby-Starter"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/Jaskerv/Typescript-Gatsby-Starter/issues"
   }
 }
